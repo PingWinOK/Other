@@ -1,0 +1,6 @@
+﻿  Laba4.cpp
+g:\вуз\c++\laba4\laba4\laba4.cpp(42): warning C4215: нестандартное расширение: long float
+g:\вуз\c++\laba4\laba4\laba4.cpp(59): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+g:\вуз\c++\laba4\laba4\laba4.cpp(76): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+g:\вуз\c++\laba4\laba4\laba4.cpp(103): warning C4215: нестандартное расширение: long float
+  Laba4.vcxproj -> G:\Вуз\C++\Laba4\Debug\Laba4.exe
