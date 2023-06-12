@@ -1,0 +1,1 @@
+Congratulation! Your flag is CTF{Password_cracking_is_cool}

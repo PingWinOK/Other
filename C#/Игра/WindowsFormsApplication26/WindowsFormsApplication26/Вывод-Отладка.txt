@@ -1,0 +1,23 @@
+﻿"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "F:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.vshost.exe"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll"
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll"
+Поток 'vshost.NotifyLoad' (0xb10) завершился с кодом 0 (0x0).
+Поток 'vshost.LoadReference' (0xcdc) завершился с кодом 0 (0x0).
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "F:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe", Cимволы загружены.
+Поток '<Без имени>' (0x298) завершился с кодом 0 (0x0).
+"WindowsFormsApplication26.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll"
+Поток 'vshost.RunParkingWindow' (0xe60) завершился с кодом 0 (0x0).
+Поток '<Без имени>' (0xe40) завершился с кодом 0 (0x0).
+Программа "[536] WindowsFormsApplication26.vshost.exe: Управляемый (v4.0.30319)" завершилась с кодом 0 (0x0).

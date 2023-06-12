@@ -1,0 +1,24 @@
+The flag is encrypted by that programm. Can you decrypt the flag? 
+|kyDVLRF.SPIZB
+
+
+
+CTF{ismy1love}                                                                                                             
+
+s="abcd"
+res=""
+
+def gray2binary(x):
+    shift = 1;
+    while x > shift*2:
+        x ^= shift
+        shift <<= 1
+    return x
+
+for i in range(len(s)):
+    a = ord(s[i])
+    x1=gray2binary(a)
+   res+=chr(x1)
+
+
+print(res)

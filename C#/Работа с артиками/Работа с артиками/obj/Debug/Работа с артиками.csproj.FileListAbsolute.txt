@@ -1,0 +1,19 @@
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\bin\Debug\Работа с артиками.exe
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\bin\Debug\Работа с артиками.pdb
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.csprojResolveAssemblyReference.cache
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа_с_артиками.Form1.resources
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа_с_артиками.Properties.Resources.resources
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.csproj.GenerateResource.Cache
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.exe
+c:\users\данил\documents\visual studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.pdb
+C:\Users\Данил\Documents\Visual Studio 2012\Projects\Работа с артиками\Работа с артиками\obj\Debug\Работа_с_артиками.Form2.resources
+F:\Работа с артиками\Работа с артиками\bin\Debug\Работа с артиками.exe
+F:\Работа с артиками\Работа с артиками\bin\Debug\Работа с артиками.pdb
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.csprojAssemblyReference.cache
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа_с_артиками.Form1.resources
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа_с_артиками.Form2.resources
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа_с_артиками.Properties.Resources.resources
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.csproj.GenerateResource.cache
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.csproj.CoreCompileInputs.cache
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.exe
+F:\Работа с артиками\Работа с артиками\obj\Debug\Работа с артиками.pdb

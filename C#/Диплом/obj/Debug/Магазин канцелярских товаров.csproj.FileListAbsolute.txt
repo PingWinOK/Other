@@ -1,0 +1,59 @@
+C:\Users\5325\Desktop\2019копия\bin\Debug\KT.mdb
+C:\Users\5325\Desktop\2019копия\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Заказ.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Магазин канцелярских товаров.csproj.GenerateResource.cache
+C:\Users\5325\Desktop\2019копия\obj\Debug\Магазин канцелярских товаров.csproj.CopyComplete
+C:\Users\5325\Desktop\2019копия\bin\Debug\Магазин канцелярских товаров.exe.config
+C:\Users\5325\Desktop\2019копия\bin\Debug\Магазин канцелярских товаров.exe
+C:\Users\5325\Desktop\2019копия\bin\Debug\Магазин канцелярских товаров.pdb
+C:\Users\5325\Desktop\2019копия\obj\Debug\Магазин канцелярских товаров.exe
+C:\Users\5325\Desktop\2019копия\obj\Debug\Магазин канцелярских товаров.pdb
+C:\Users\5325\Desktop\Диплом\bin\Debug\KT.mdb
+C:\Users\5325\Desktop\Диплом\bin\Debug\Магазин канцелярских товаров.exe.config
+C:\Users\5325\Desktop\Диплом\bin\Debug\Магазин канцелярских товаров.exe
+C:\Users\5325\Desktop\Диплом\bin\Debug\Магазин канцелярских товаров.pdb
+C:\Users\5325\Desktop\Диплом\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\MySql.Data.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Google.Protobuf.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Zstandard.Net.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Renci.SshNet.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Buffers.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Memory.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\MySql.Data.xml
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.exe.config
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.csproj.ResolveComReference.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Заказ.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.csproj.GenerateResource.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.csproj.CoreCompileInputs.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.csproj.CopyComplete
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.exe
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.pdb
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин канцелярских товаров.csprojAssemblyReference.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Авторизация.resources

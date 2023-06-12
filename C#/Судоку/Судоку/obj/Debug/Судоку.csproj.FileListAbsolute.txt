@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Судоку\Судоку\bin\Debug\Судоку.exe.config
+C:\Users\User\source\repos\Судоку\Судоку\bin\Debug\Судоку.exe
+C:\Users\User\source\repos\Судоку\Судоку\bin\Debug\Судоку.pdb
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.Properties.Resources.resources
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.exe
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.pdb
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.Sudoku.resources
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.HelpPanel.resources
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.Menu.resources
+C:\Users\User\source\repos\Судоку\Судоку\obj\Debug\Судоку.About.resources

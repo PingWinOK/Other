@@ -1,0 +1,31 @@
+CREATE TABLE public.firstapp_artists(
+   "id"           SERIAL  NOT NULL PRIMARY KEY
+  ,"UserId"       INTEGER  NOT NULL
+  ,"CheckId"      INTEGER  NOT NULL
+  ,"ProductName"  VARCHAR(57) NOT NULL
+  ,"ProductCost"  INTEGER  NOT NULL
+  ,"MerchantName" VARCHAR(18) NOT NULL
+  ,"MCC"          INTEGER  NOT NULL
+);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2217,17,'Пополнение виртуального счёта',4500,'STEAM',5816);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (635,17,'Творог',40,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (551,38,'Вареники',259,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2852,14,'Шампунь',50,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2365,8,'СТРЕПСИЛС С ВИТАМИНОМ С',163,'apteka.ru',5912);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1602,0,'Колбаса копчёная',140,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2125,26,'Каша пшённая',75,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (371,24,'Купаты',150,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2840,12,'Замена ремня грм',800,'GS auto',7538);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (259,22,'Грибы грузди солёные',120,'Перекресток',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1275,19,'Цыплёнок табака',190,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1685,22,'Помидоры',65,'Перекресток',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1884,30,'Хлебцы',30,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1600,32,'Лимон',40,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2543,26,'Цыплёнок табака',190,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1486,24,'Одинарная раковина',8303,'ikea.com',5712);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (626,38,'Имбирь',30,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2518,0,'Конфеты',120,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (1810,30,'Текила',1450,'Пятёрочка',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2431,35,'Купаты',150,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2569,24,'Творог',60,'Магнит',5441);
+INSERT INTO public.firstapp_artists(UserId,CheckId,ProductName,ProductCost,MerchantName,MCC) VALUES (2416,37,'Шампунь',150,'Перекресток',5441);

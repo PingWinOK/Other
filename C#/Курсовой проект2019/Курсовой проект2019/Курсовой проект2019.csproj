@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B828978-F2CC-4F11-B079-BE27EF179614}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Курсовой_проект2019</RootNamespace>
+    <AssemblyName>Курсовой проект2019</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlXml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="conteyner.cs" />
+    <Compile Include="FAQ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FAQ.Designer.cs">
+      <DependentUpon>FAQ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ДобавленияPost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ДобавленияPost.Designer.cs">
+      <DependentUpon>ДобавленияPost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="О_Программе.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="О_Программе.Designer.cs">
+      <DependentUpon>О_Программе.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Поставщики.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Поставщики.Designer.cs">
+      <DependentUpon>Поставщики.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KTDataSet.cs">
+      <DependentUpon>KTDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KTDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>KTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ДобавлениеKT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ДобавлениеKT.Designer.cs">
+      <DependentUpon>ДобавлениеKT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Канцелярия.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Канцелярия.Designer.cs">
+      <DependentUpon>Канцелярия.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Старт программы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Старт программы.Designer.cs">
+      <DependentUpon>Старт программы.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Выбор таблицы.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Выбор таблицы.Designer.cs">
+      <DependentUpon>Выбор таблицы.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="FAQ.resx">
+      <DependentUpon>FAQ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Выбор таблицы.resx">
+      <DependentUpon>Выбор таблицы.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ДобавлениеKT.resx">
+      <DependentUpon>ДобавлениеKT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ДобавленияPost.resx">
+      <DependentUpon>ДобавленияPost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Канцелярия.resx">
+      <DependentUpon>Канцелярия.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="О_Программе.resx">
+      <DependentUpon>О_Программе.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Поставщики.resx">
+      <DependentUpon>Поставщики.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Старт программы.resx">
+      <DependentUpon>Старт программы.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="KTDataSet.xsc">
+      <DependentUpon>KTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="KTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>KTDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="KTDataSet.xss">
+      <DependentUpon>KTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="KT.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Картинки\folder-search-480.png" />
+    <None Include="Картинки\Arrow_recycle_refresh_reload_reprocess_update-512.png" />
+    <None Include="Картинки\Arrow_diagonal_left_arrow_right_right_sign_sign-512.png" />
+    <None Include="Картинки\database_refresh-512.png" />
+    <None Include="Картинки\Disk_drive_floppy_hard_hard_disk_storage-512.png" />
+    <None Include="Картинки\Cancel_close_delete_dismiss_modal_remove-512.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(91,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(93,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(117,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(175,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(180,40): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe

@@ -1,0 +1,48 @@
+
+function Avto(marka, god_vipuska, svet,Stoimost,Max_Skor) {
+    this.marka = marka;
+    this.god_vipuska = god_vipuska;
+    this.svet = svet;
+    this.Stoimost = Stoimost;
+    this.Max_Skor = Max_Skor;
+}
+
+Pere = [];
+Mahini = [];
+function Vhod() {
+
+    Mahini[0] = (Operazia = new Avto("Opel",1978,"Белый",2600300,250));
+    Mahini[1] = (Operazia = new Avto("BMW",2002,"Серый",4000000,350));
+    Mahini[2] = (Operazia = new Avto("Tesla",2019,"Черный",6000000,400));
+    Mahini[3] = (Operazia = new Avto("Ford",2003,"Черный",2000000,300,));
+    var otv = '';
+    for(var i in Mahini)
+    {
+
+        otv += "<p>Марка авто: "+Mahini[i].marka + "</br>";
+        otv += "Год выпуска: "+Mahini[i].god_vipuska + "</br>";
+        otv += "Цвет: "+Mahini[i].svet + "</br>";
+        otv += "Стоимость: "+Mahini[i].Stoimost + "</br>";
+        otv += "Максимальная скорость: "+ Mahini[i].Max_Skor + "</br></p>";
+    }
+    document.getElementById("rez").innerHTML = otv;
+}
+function Vhod1() {
+    S = parseInt(document.getElementById("1").value);
+    C = document.getElementById("2").value;
+    var otv = '';
+    for(var i in Mahini)
+    {
+        if(Mahini[i].svet == C && Mahini[i].Stoimost < S)
+        {
+
+        otv += "<p>Марка авто: "+Mahini[i].marka + "</br>";
+        otv += "Год выпуска: "+Mahini[i].god_vipuska + "</br>";
+        otv += "Цвет: "+Mahini[i].svet + "</br>";
+        otv += "Стоимость: "+Mahini[i].Stoimost + "</br>";
+        otv += "Максимальная скорость: "+ Mahini[i].Max_Skor + "</br></p>";
+        }
+    }
+document.getElementById("rez").innerHTML = otv;
+}
+function Foo() {

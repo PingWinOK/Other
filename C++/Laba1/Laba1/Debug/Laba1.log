@@ -1,0 +1,5 @@
+﻿  1.cpp
+F:\Вуз\C++\Laba1\Laba1\1.cpp(28,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Вуз\C++\Laba1\Laba1\1.cpp(30,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+F:\Вуз\C++\Laba1\Laba1\1.cpp(32,9): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Laba1.vcxproj -> F:\Вуз\C++\Laba1\Debug\Laba1.exe

@@ -1,0 +1,9 @@
+﻿  Source.cpp
+g:\вуз\c++\laba5\laba5\source.cpp(68): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+g:\вуз\c++\laba5\laba5\source.cpp(78): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+g:\вуз\c++\laba5\laba5\source.cpp(108): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+g:\вуз\c++\laba5\laba5\source.cpp(115): warning C4305: инициализация: усечение из "double" в "float"
+g:\вуз\c++\laba5\laba5\source.cpp(65): warning C4101: F: неиспользованная локальная переменная
+g:\вуз\c++\laba5\laba5\source.cpp(140): warning C4101: b: неиспользованная локальная переменная
+g:\вуз\c++\laba5\laba5\source.cpp(140): warning C4101: c: неиспользованная локальная переменная
+  Laba5.vcxproj -> G:\Вуз\C++\Laba5\Debug\Laba5.exe

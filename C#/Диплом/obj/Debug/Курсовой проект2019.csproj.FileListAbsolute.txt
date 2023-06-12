@@ -1,0 +1,195 @@
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe.config
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.pdb
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.exe
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.pdb
+c:\users\данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Добавление.resources
+C:\Users\Данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\Данил\documents\visual studio 2012\Projects\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Добавление.resources
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\Данил\Desktop\Kursava2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\KT.mdb
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\bin\Debug\KT.mdb
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Добавление.resources
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\Данил\Desktop\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe.config
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.exe
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.pdb
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\KT.mdb
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.pdb
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Добавление.resources
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Stars.resources
+H:\Курсовая2019\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe.config
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.exe
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.pdb
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\KT.mdb
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.pdb
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Stars.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Поставщики.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.FAQ.resources
+H:\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\KT.mdb
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\bin\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\Данил\Desktop\Курсовая2019(Для 7)\Курсовой проект2019\Курсовой проект2019\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\2019(Диплом)\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\2019(Диплом)\bin\Debug\KT.mdb
+C:\Users\Данил\Desktop\2019(Диплом)\bin\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\2019(Диплом)\bin\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.Заказ.resources
+C:\Users\Данил\Desktop\2019(Диплом)\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\Данил\Desktop\2019(Диплом) - копия\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\Данил\Desktop\2019(Диплом) - копия\obj\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\2019(Диплом) - копия\obj\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\2019копия\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Заказ.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\Данил\Desktop\2019копия\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\2019копия\bin\Debug\KT.mdb
+C:\Users\Данил\Desktop\2019копия\bin\Debug\Курсовой проект2019.exe
+C:\Users\Данил\Desktop\2019копия\bin\Debug\Курсовой проект2019.pdb
+C:\Users\Данил\Desktop\2019копия\bin\Debug\MySql.Data.dll
+C:\Users\Данил\Desktop\2019копия\bin\Debug\Google.Protobuf.dll
+C:\Users\Данил\Desktop\2019копия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Данил\Desktop\2019копия\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Данил\Desktop\2019копия\bin\Debug\Renci.SshNet.dll
+C:\Users\Данил\Desktop\2019копия\bin\Debug\MySql.Data.xml
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Заказ.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой проект2019.csproj.GenerateResource.cache
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой проект2019.exe
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой проект2019.pdb
+C:\Users\5325\Desktop\2019копия\bin\Debug\KT.mdb
+C:\Users\5325\Desktop\2019копия\bin\Debug\Курсовой проект2019.exe.config
+C:\Users\5325\Desktop\2019копия\bin\Debug\Курсовой проект2019.exe
+C:\Users\5325\Desktop\2019копия\bin\Debug\Курсовой проект2019.pdb
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой проект2019.csproj.CopyComplete
+C:\Users\5325\Desktop\2019копия\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+C:\Users\5325\Desktop\2019копия\obj\Debug\Курсовой проект2019.csprojAssemblyReference.cache
+F:\2019копия\obj\Debug\Курсовой проект2019.csprojAssemblyReference.cache
+F:\2019копия\obj\Debug\Курсовой_проект2019.FAQ.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.Заказ.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.Поставщики.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.О_Программе.resources
+F:\2019копия\obj\Debug\Курсовой_проект2019.Stars.resources
+F:\2019копия\obj\Debug\Курсовой проект2019.csproj.GenerateResource.cache
+F:\2019копия\obj\Debug\Курсовой проект2019.exe
+F:\2019копия\obj\Debug\Курсовой проект2019.pdb
+H:\2019копия\bin\Debug\Курсовой проект2019.exe.config
+H:\2019копия\obj\Debug\Курсовой проект2019.exe
+H:\2019копия\obj\Debug\Курсовой проект2019.pdb
+H:\2019копия\obj\Debug\Курсовой проект2019.csprojResolveAssemblyReference.cache
+H:\2019копия\obj\Debug\Курсовой_проект2019.FAQ.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.Заказ.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.Поставщики.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.О_Программе.resources
+H:\2019копия\obj\Debug\Курсовой_проект2019.Stars.resources
+H:\2019копия\obj\Debug\Курсовой проект2019.csproj.GenerateResource.Cache
+H:\2019копия\bin\Debug\KT.mdb
+H:\2019копия\bin\Debug\Курсовой проект2019.exe
+H:\2019копия\bin\Debug\Курсовой проект2019.pdb
+H:\2019копия\bin\Debug\MySql.Data.dll
+H:\2019копия\bin\Debug\Google.Protobuf.dll
+H:\2019копия\bin\Debug\BouncyCastle.Crypto.dll
+H:\2019копия\bin\Debug\Ubiety.Dns.Core.dll
+H:\2019копия\bin\Debug\Renci.SshNet.dll
+H:\2019копия\bin\Debug\MySql.Data.xml
+C:\Users\5325\Desktop\2019копия\bin\Debug\Google.Protobuf.dll
+C:\Users\5325\Desktop\2019копия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\5325\Desktop\2019копия\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\5325\Desktop\2019копия\bin\Debug\Renci.SshNet.dll
+C:\Users\5325\Desktop\2019копия\bin\Debug\MySql.Data.xml

@@ -1,0 +1,3 @@
+﻿  labaratory9.cpp
+c:\users\vorobyshek\source\repos\labaratory9\labaratory9\labaratory9.cpp(109): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  labaratory9.vcxproj -> C:\Users\Vorobyshek\source\repos\labaratory9\Debug\labaratory9.exe

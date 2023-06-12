@@ -1,0 +1,49 @@
+"""
+block_genesis = \
+    {
+        'prev_hash': None,
+        'transactions': [1, 2, 3, 4, 5],
+        'messages': ("Данил отправил 150 рублей",),
+    }
+
+block_genesis_ser = json.dumps(block_genesis, sort_keys=True, indent=2).encode('utf-8')
+block_genesis_hash = hashlib.sha256(block_genesis_ser).hexdigest()
+print(block_genesis_ser)
+print(block_genesis_hash)
+block_2 = \
+    {
+        'prev_hash': None,
+        'transactions': [5, 4, 3, 2, 1, ],
+        'messages': ("Руслан отправил 150 рублей",),
+    }
+block_2_ser = json.dumps(block_2, sort_keys=True, indent=2).encode('utf-8')
+block_2_hash = hashlib.sha256(block_2_ser).hexdigest()
+print(block_2_ser)
+print(block_2_hash)
+block_3 = \
+    {
+        'prev_hash': None,
+        'transactions': [1, 1, 1, 1, 1, ],
+        'messages': ("Юра отправил 150 рублей",),
+    }
+block_3_ser = json.dumps(block_3, sort_keys=True, indent=2).encode('utf-8')
+block_3_hash = hashlib.sha256(block_3_ser).hexdigest()
+print(block_3_ser)
+print(block_3_hash)
+
+
+def hash_blocks(blocks):
+    prev_hash = None
+    for block in blocks:
+        block['prev_hash'] = prev_hash
+        block_ser = json.dumps(block, sort_keys=True, indent=4).encode('utf-8')
+        block_hash = hashlib.sha256(block_ser).hexdigest()
+        prev_hash = block_hash
+    return prev_hash
+
+
+print("Оригинальный хеш")
+print(hash_blocks([block_genesis, block_2, block_3]))
+print("Вмешательство")
+block_2['transactions'][3] = 6
+print(hash_blocks([block_genesis, block_2, block_3]))"""

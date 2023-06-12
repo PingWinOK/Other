@@ -1,0 +1,88 @@
+# Файл docker-compose должен начинаться с тега версии.
+# Мы используем "3" так как это - самая свежая версия на момент написания этого кода.
+
+version: "3"
+
+# Следует учитывать, что docker-composes работает с сервисами.
+# 1 сервис = 1 контейнер.
+# Сервисом может быть клиент, сервер, сервер баз данных...
+# Раздел, в котором будут описаны сервисы, начинается с 'services'.
+
+services:
+
+
+  # Как уже было сказано, мы собираемся создать клиентское и серверное приложения.
+  # Это означает, что нам нужно два сервиса.
+  # Первый сервис (контейнер): сервер.
+  # Назвать его можно так, как нужно разработчику.
+  # Понятное название сервиса помогает определить его роль.
+  # Здесь мы, для именования соответствующего сервиса, используем ключевое слово 'server'.
+
+  web:
+    build: .
+    command: python Server/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/Server
+    ports:
+      - "${HTTP_PORT:-8000}:8000"
+    environment:
+      - POSTGRES_NAME=postgres
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=test
+      - POSTGRES_HOST_AUTH_METHOD=trust
+      - POSTGRES_HOST=postgres
+    depends_on:
+      - "postgres"
+    networks:
+      - djangonetwork
+    healthcheck:
+      test: curl --fail http://localhost || exit 1
+      interval: 60s
+      retries: 5
+      start_period: 20s
+      timeout: 10s
+
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: test
+      PGDATA: "/other/postgres"
+      POSTGRES_HOST: postgres
+    volumes:
+      - ./other:/docker-entrypoint-initdb.d
+    ports:
+      - "${DB_PORT:-5432}:5432"
+    networks:
+      - djangonetwork
+    restart: unless-stopped
+
+  pgadmin:
+    image: dpage/pgadmin4
+    ports:
+      - "8001:80"
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.ru
+      PGADMIN_DEFAULT_PASSWORD: 1
+    volumes:
+      - ./pgadmin:/var/lib/pgadmin
+    networks:
+      - djangonetwork
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1'
+          memory: 4G
+networks:
+  djangonetwork:
+      driver: bridge
+volumes:
+  postgres_data:

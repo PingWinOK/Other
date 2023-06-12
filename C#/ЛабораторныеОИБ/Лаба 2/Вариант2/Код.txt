@@ -1,0 +1,74 @@
+Slovo = "Kulakov"
+
+key = "Lojehka"
+
+SlovoASC = ""
+
+keyASC = ""
+
+Shifr = ""
+
+simvolov = ""
+
+Obr = []
+
+Shifr1 = ""
+
+Slovo1 = ""
+
+AAA = ""
+
+for i in Slovo:
+
+    SlovoASC += (bin(ord(i))[2::])
+
+print(SlovoASC + "- преобразование Слова")
+
+for i in key:
+
+    keyASC += (bin(ord(i))[2::])
+
+print(keyASC + "- преобразование Ключа")
+
+i = 0
+while i < len(SlovoASC):
+
+    Shifr += str((int(SlovoASC[i])) ^ (int(keyASC[i])))
+
+    i = i + 1
+
+print(Shifr + "- полученный Шифр")
+
+
+i = 0
+while i < len(Shifr):
+
+    Shifr1 += str((int(Shifr[i])) ^ (int(keyASC[i])))
+
+    i = i + 1
+
+print(Shifr1 + "- дешифрование")
+
+i = 0
+G = 0
+while i < len(Shifr1):
+
+    simvolov += Shifr1[i]
+  
+  G = G + 1
+
+    if(G == 7):
+
+        Obr.append("0b"+simvolov)
+
+        simvolov = ""
+
+        G = 0
+
+    i = i + 1
+
+for i in Obr:
+
+    Slovo1 += (chr(int(i,2)))
+
+print(Slovo1 + " - дешифрованное слово")

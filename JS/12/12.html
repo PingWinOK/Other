@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="12.js"></script>
+</head>
+
+<body>
+    <h3 style="margin-left: 50%;"> Лабараторная работа №12</h3>
+    <h4 style="margin-left: 50%;">Вариант 2 </h4>
+    <h3 style="margin-left: 25%;">Написать программу, которая осуществляет следующий рекурсивный вызов:
+        Ввод n
+        Вызов F(n)
+        function F(n){
+        Вывод(n);
+        If (n < 5){ 
+            F(n+2);
+            F(n+5);}}
+        </h3>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo();" type="button">n = 1</button> <br />
+    <div id="rez1" style="width:18%; height:100%; margin-left: 45%;"></div>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo1();" type="button">n = 2</button> <br />
+    <div id="rez2" style="width:18%; height:100%; margin-left: 45%;"></div>
+    <h3 style="margin-left: 25%;">2. Дано натуральное число N. Выведите слово YES, если число N является точной степенью двойки, или слово NO в противном случае.</h3>
+    <input style="width:18%; height:100%; margin-left: 45%;" id="1" type="text" value="N" /> <br>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo2();" type="button">Определить</button> <br />
+    <div id="rez3" style="width:18%; height:100%; margin-left: 45%;"></div>
+</body>
+
+</html>

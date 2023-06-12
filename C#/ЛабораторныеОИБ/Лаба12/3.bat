@@ -1,0 +1,1 @@
+copy /b 3.jpg + 3.zip 3ed.jpg

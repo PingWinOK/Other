@@ -1,0 +1,8 @@
+﻿  Laba2.cpp
+f:\вуз\c++\laba2\laba2\laba2.cpp(24): warning C4804: -: небезопасное использование типа "bool" в операции
+f:\вуз\c++\laba2\laba2\laba2.cpp(29): warning C4804: -: небезопасное использование типа "bool" в операции
+f:\вуз\c++\laba2\laba2\laba2.cpp(39): warning C4804: -: небезопасное использование типа "bool" в операции
+f:\вуз\c++\laba2\laba2\laba2.cpp(44): warning C4804: -: небезопасное использование типа "bool" в операции
+f:\вуз\c++\laba2\laba2\laba2.cpp(54): warning C4804: -: небезопасное использование типа "bool" в операции
+f:\вуз\c++\laba2\laba2\laba2.cpp(59): warning C4804: -: небезопасное использование типа "bool" в операции
+  Laba2.vcxproj -> F:\Вуз\C++\Laba2\x64\Debug\Laba2.exe

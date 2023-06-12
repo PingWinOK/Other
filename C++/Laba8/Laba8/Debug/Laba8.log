@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Laba8.cpp
+g:\вуз\c++\laba8\laba8\laba8.cpp(27): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\вуз\c++\laba8\laba8\laba8.cpp(64): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\вуз\c++\laba8\laba8\laba8.cpp(100): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\вуз\c++\laba8\laba8\laba8.cpp(155): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\вуз\c++\laba8\laba8\laba8.cpp(194): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\вуз\c++\laba8\laba8\laba8.cpp(239): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+g:\вуз\c++\laba8\laba8\laba8.cpp(244): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Laba8.vcxproj -> G:\Вуз\C++\Laba8\Debug\Laba8.exe

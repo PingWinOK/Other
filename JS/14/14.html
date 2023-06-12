@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="14.js"></script>
+</head>
+
+<body>
+    <h3 style="margin-left: 50%;"> Лабараторная работа №14</h3>
+    <h4 style="margin-left: 50%;">Задачи для самостоятельного решения:</h4>
+    <h3 style="margin-left: 25%;">1. Что выведется после выполнения следующего кода и почему?</h3>
+    <p style="margin-left: 25%;">
+        <br />var x= 10;
+        <br />function foo()
+        <br />{
+        <br />var y = x + 5;
+        <br />return y;
+        <br />}
+        <br />function bar()
+        <br />{
+        <br />var x = 2;
+        <br />return foo();
+        <br />}
+        <br />foo();
+        <br />bar();
+    </p>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo1();" type="button">Выполнить</button> <br />
+    <div id="rez1" style="width:18%; height:100%; margin-left: 45%;"></div>
+    <h3 style="margin-left: 25%;">2. Что выведется после выполнения следующего кода и почему?</h3>
+    <p style="margin-left: 25%;">
+        <br />var result = [];
+        <br />for (var i = 0; i < 5; i++)
+        <br />{
+        <br />result[i] = function ()
+        <br />{
+        <br />console.log(i);
+        <br />};
+        <br />}
+
+        <br />result[0]();
+        <br />result[1]();
+        <br />result[2]();
+        <br />result[3]();
+        <br />result[4]();
+        <br />Что надо добавить, чтобы получился нормальный результат?
+    </p>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo2();" type="button">Выполнить</button> <br />
+    <div id="rez2" style="width:18%; height:100%; margin-left: 45%;"></div>
+    <h3 style="margin-left: 25%;">3. Что выведется после выполнения следующего кода и почему?</h3>
+    <p style="margin-left: 25%;">
+        <br />var value = 0;
+        <br />function f() 
+        <br />{
+        <br />if (1) 
+        <br />{
+        <br />value = true;
+        <br />} 
+        <br />else 
+        <br />{
+        <br />var value = false;
+        <br />}
+        <br />alert(value);
+        <br />}
+        <br />f();
+        <br />Изменится ли внешняя переменная value ?
+        <br />Какими будут ответы, если из строки var value = false убрать var?
+
+    </p>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo3();" type="button">Выполнить</button> <br />
+    <div id="rez3" style="width:18%; height:100%; margin-left: 45%;"></div>
+    <h3 style="margin-left: 25%;">4. Что выведется после выполнения следующего кода и почему?</h3>
+    <p style="margin-left: 25%;">
+        <br />function test() 
+        <br />{
+        <br />alert( window );
+        <br />var window = 5;
+        <br />alert( window );
+        <br />}
+        <br />test();
+
+
+    </p>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo4();" type="button">Выполнить</button> <br />
+    <div id="rez4" style="width:18%; height:100%; margin-left: 45%;"></div>
+    <h3 style="margin-left: 25%;">5. Что выведется после выполнения следующего кода и почему?</h3>
+    <p style="margin-left: 25%;">
+        <br />var a = 5
+        <br />(function() 
+        <br />{
+        <br />alert(a)
+        <br />})()
+
+    </p>
+    <button style="width:18%; height:100%; margin-left: 45%;" onclick="Foo5();" type="button">Выполнить</button> <br />
+    <div id="rez5" style="width:18%; height:100%; margin-left: 45%;"></div>
+
+
+</body>
+
+</html>

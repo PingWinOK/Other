@@ -1,0 +1,75 @@
+C:\Users\5325\Desktop\Диплом\bin\Debug\KT.mdb
+C:\Users\5325\Desktop\Диплом\bin\Debug\Магазин офисных товаров.exe.config
+C:\Users\5325\Desktop\Диплом\bin\Debug\Магазин офисных товаров.exe
+C:\Users\5325\Desktop\Диплом\bin\Debug\Магазин офисных товаров.pdb
+C:\Users\5325\Desktop\Диплом\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\MySql.Data.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Google.Protobuf.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Zstandard.Net.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\Renci.SshNet.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Buffers.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Memory.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\5325\Desktop\Диплом\bin\Debug\MySql.Data.xml
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.exe.config
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.csproj.ResolveComReference.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.FAQ.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Авторизация.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Заказ.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Поставщики.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.О_Программе.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Курсовой_проект2019.Stars.resources
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.csproj.GenerateResource.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.csproj.CoreCompileInputs.cache
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.csproj.CopyComplete
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.exe
+C:\Users\5325\Desktop\Диплом\obj\Debug\Магазин офисных товаров.pdb
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\KT.mdb
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Магазин офисных товаров.exe.config
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Магазин офисных товаров.exe
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Магазин офисных товаров.pdb
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Google.Protobuf.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Zstandard.Net.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\BouncyCastle.Crypto.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Ubiety.Dns.Core.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\Renci.SshNet.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\System.Buffers.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\K4os.Compression.LZ4.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\K4os.Hash.xxHash.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\System.Memory.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\System.Numerics.Vectors.dll
+E:\Технарь\Диск\Программа\Диплом\bin\Debug\MySql.Data.xml
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.csprojAssemblyReference.cache
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.csproj.ResolveComReference.cache
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.FAQ.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Properties.Resources.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Авторизация.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Выбор_БД.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.ДобавлениеPos.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.ДобавлениеZakaza.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.ДобавленияPost.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Заказ.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Канцелярия.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Поставщики.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.О_Программе.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Курсовой_проект2019.Stars.resources
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.csproj.GenerateResource.cache
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.csproj.CoreCompileInputs.cache
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.csproj.CopyComplete
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.exe
+E:\Технарь\Диск\Программа\Диплом\obj\Debug\Магазин офисных товаров.pdb

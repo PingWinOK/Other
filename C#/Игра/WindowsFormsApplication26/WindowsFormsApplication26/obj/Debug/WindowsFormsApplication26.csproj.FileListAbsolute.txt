@@ -1,0 +1,47 @@
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojResolveAssemblyReference.cache
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.Cache
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+c:\users\данил\documents\visual studio 2012\Projects\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+F:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+F:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+F:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\ResolveAssemblyReference.cache
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\GenerateResource.read.1.tlog
+F:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\GenerateResource.write.1.tlog
+H:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+H:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+H:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+H:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+H:\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+H:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+H:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+H:\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.Cache
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csprojResolveAssemblyReference.cache
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\Users\Данил\Desktop\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.csproj.GenerateResource.Cache
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe.config
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.exe
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.pdb
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.exe
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\bin\Debug\WindowsFormsApplication26.pdb
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Properties.Resources.resources
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\WindowsFormsApplication26.Form1.resources
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Comp\Рабочий стол\WindowsFormsApplication26\WindowsFormsApplication26\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,6 @@
+I bet you'll never guess my password!
+
+I hashed tjctf{[word]} - my word has a captial letter, two lowercase letters, a digit, and an underscore. 
+ex: hash('tjctf{o_0Bo}') or hash('tjctf{Aaa0_}')
+
+Here's the md5 hash: 31f40dc5308fa2a311d2e2ba8955df6c
